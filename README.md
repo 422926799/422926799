@@ -6,5 +6,3 @@
 <a href="https://github.com/422926799">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=422926799&show_icons=true&include_all_commits=true" />
 </a>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@422926799&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
